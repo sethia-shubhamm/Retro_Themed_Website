@@ -57,7 +57,7 @@ export default function About() {
                 <div className="w-24 h-24 mx-auto mb-4 bg-retroPurple rounded-full flex items-center justify-center">
                   <span className="text-3xl font-retro">👾</span>
                 </div>
-                <h3 className="font-['Press_Start_2P'] text-retroPink mb-2">ABHISHEK</h3>
+                <h3 className="font-['Press_Start_2P'] text-retroPink mb-2">Shubham</h3>
                 <p className="font-retro">Lead Game Developer</p>
               </div>
               
@@ -65,7 +65,7 @@ export default function About() {
                 <div className="w-24 h-24 mx-auto mb-4 bg-retroGreen rounded-full flex items-center justify-center">
                   <span className="text-3xl font-retro">📼</span>
                 </div>
-                <h3 className="font-['Press_Start_2P'] text-retroGreen mb-2">ISHAN</h3>
+                <h3 className="font-['Press_Start_2P'] text-retroGreen mb-2">Shubham</h3>
                 <p className="font-retro">Content Writer</p>
               </div>
             </div>

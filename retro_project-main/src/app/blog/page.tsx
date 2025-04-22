@@ -12,7 +12,7 @@ export default function BlogPage() {
       excerpt: "Explore the history and impact of classic arcade games that defined an era.",
       category: "HISTORY",
       date: "March 15, 2024",
-      author: "DHRUV"
+      author: "AUTH1"
     },
     {
       id: 2,
@@ -20,7 +20,7 @@ export default function BlogPage() {
       excerpt: "Discover why retro gaming continues to captivate players of all ages.",
       category: "CULTURE",
       date: "March 10, 2024",
-      author: "VASU"
+      author: "AUTH2"
     },
     {
       id: 3,
@@ -28,7 +28,7 @@ export default function BlogPage() {
       excerpt: "From simple joysticks to modern controllers, see how gaming input has evolved.",
       category: "TECHNOLOGY",
       date: "March 5, 2024",
-      author: "TUSHAR"
+      author: "AUTH3"
     }
   ];
 
